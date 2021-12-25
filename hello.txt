@@ -19,3 +19,4 @@ dingding hello~
 dingding hello~
 dingding hello~
 dingding hello~ master
+dingding hello~ hot-fix
